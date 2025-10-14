@@ -1,7 +1,6 @@
 # Robotics – Monsoon 2025  
 
 **Instructor:** Prof. Sayan Basu Roy 
-
 **Institution:** IIIT-Delhi  
 
 ## 📌 Course Overview  
