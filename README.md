@@ -1,3 +1,4 @@
+© 2025 Kumar Mrinal. All rights reserved.
 # Robotics – Monsoon 2025  
 
 **Instructor:** Prof. Sayan Basu Roy 
@@ -5,4 +6,4 @@
 
 ## 📌 Course Overview  
 
-This repository contains solution to assignments for the **Robotics** course offered in **Monsoon Semester 2025** at IIIT-Delhi.  
+This repository contains my solution to assignments for the **Robotics** course offered in **Monsoon Semester 2025** at IIIT-Delhi along with **MY PROJECT**.
